@@ -1,4 +1,3 @@
-require("config")
 --Pumpjack
 require("prototypes.pump-1")
 require("prototypes.pump-2")
