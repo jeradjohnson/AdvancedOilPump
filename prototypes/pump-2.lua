@@ -18,7 +18,7 @@ data:extend({
     ingredients =
     {
 	  {"AOP-pumpjack-1", 1},
-	  {"speed-module-2", 7},
+	  {"speed-module-2", 4},
 	  {"productivity-module-2", 4}
     },
     result = "AOP-pumpjack-2",
