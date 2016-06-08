@@ -5,7 +5,7 @@ data:extend({
     name = "AOP-pumpjack-3",
     icon = "__base__/graphics/icons/pumpjack.png",
     flags = {"goes-to-quickbar"},
-    subgroup = "liquid-pump",
+    subgroup = "extraction-machine",
     order = "c",
     place_result = "AOP-pumpjack-3",
     stack_size = 20
